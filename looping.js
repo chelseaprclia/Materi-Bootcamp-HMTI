@@ -3,6 +3,8 @@
 
 //Minggu, 7 Juli 2019
 
+var names = ["Fardan", "Ibnu", "Ega", "Asep"];
+
 //1. While
 var i = 0;
 while(i < names.length) {
@@ -32,8 +34,6 @@ var aa = "A";
 var bb = (aa.toLowerCase() === "a") ? 10 : 11;
 
 console.log('B', bb);
-
-var names = ["Fardan", "Ibnu", "Ega", "Asep"];
 
 //3. For
     //Angka Genap
